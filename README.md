@@ -13,4 +13,4 @@ The chart tool showcases trends in terrorist activities over the years according
 
 The /Code/assets folder is required for favicon purpose.
 
-The Problem_Statement.docx contains the detailed client expectations along with the features required in the app.
+The Problem_Statement.docx contains the detailed client expectations along with the features implemented in the app.
