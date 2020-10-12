@@ -5,6 +5,7 @@ This app analyses terrorist activities over the World and India for the time per
 I have used the dataset provided by Forsk Coding School and worked under their guidance.
 
 The main code is present in /Code/app.py
+
 The home page of UI consists of two tabs viz. Map Tool and Chart Tool.
 Each of these tabs have their own subtabs for representing world data and india data.
 For map tool, some dropdowns are provided to update the map according to user requirements.
